@@ -1,0 +1,219 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last vvill and testament of Sir James Independent. Who lyeth now dangerously sick of a disease, called by some, the resolution of the Parliament and citie, to oppose their mutinous army; by others, the impossibilitie of Independencie. With his confession, admonition, and legacies left to his deare children, in and about the Citie of London. With his death, buriall, and epitaph.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88753</idno>
+            <idno type="STC">Wing L525</idno>
+            <idno type="STC">Thomason E400_30</idno>
+            <idno type="STC">ESTC R201761</idno>
+            <idno type="EEBO-CITATION">99862261</idno>
+            <idno type="PROQUEST">99862261</idno>
+            <idno type="VID">114414</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88753)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114414)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 63:E400[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last vvill and testament of Sir James Independent. Who lyeth now dangerously sick of a disease, called by some, the resolution of the Parliament and citie, to oppose their mutinous army; by others, the impossibilitie of Independencie. With his confession, admonition, and legacies left to his deare children, in and about the Citie of London. With his death, buriall, and epitaph.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeare 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 31th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church polity --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Fiction --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114414:1"/>
+            <!-- PDF PAGE 28 -->
+            <pb facs="tcp:114414:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 28 -->
+            <p>The Laſt VVILL AND TESTAMENT OF SIR <hi>JAMES INDEPENDENT.</hi>
+            </p>
+            <p>Who lyeth now dangerouſly ſick of a Diſeaſe, called by ſome, <hi>The Reſolution of the Parliament and Citie, to oppoſe their mutinous Army;</hi> by others, <hi>The impoſſibilitie of Independencie.</hi>
+            </p>
+            <p>With his Confeſſion, Admonition, and Legacies left to his deare Children, in and about the Citie of LONDON.</p>
+            <p>With his Death, Buriall, and Epitaph.</p>
+            <p>Printed in the yeare 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="mock_will">
+            <pb facs="tcp:114414:2"/>
+            <!-- PDF PAGE 29 -->
+            <pb n="1" facs="tcp:114414:2"/>
+            <!-- PDF PAGE 29 -->
+            <head>The Laſt Will and Teſtament of Sir <hi>Iames Independent.</hi>
+            </head>
+            <opener>Noverint Univerſi,</opener>
+            <p>I JAMES <hi>Independent;</hi> my Native Citie, <hi>Ba<g ref="char:EOLhyphen"/>bel,</hi> of the Tribe of <hi>Corah,</hi> of the Linage of <hi>Cain;</hi> being at this time of perfect Memo<g ref="char:EOLhyphen"/>rie, and health of Minde, though dangerouſly ſick of Body, doe make this my Laſt Will and Teſta<g ref="char:EOLhyphen"/>ment, in manner and forme following:</p>
+            <p>
+               <hi>Imprimis,</hi> I give and bequeath my Soule to him that hath the faireſt clayme, either God or the Devill; for truth to ſay, in my health and well-being of body, I ſerved them both equally, though I thinke the Devill the greateſt ſharer.</p>
+            <p>My Body I give to the Earth, which I ordaine to be wrapped or ſhrowded in twelve Sheets of Paper ſowed together, taken out of the Bookes heretofore written by my deare Sonnes, to wit, <hi>The Arraignment of Perſecution. Bloudie Tenent,</hi> and, <hi>Comfort for Belee<g ref="char:EOLhyphen"/>vers;</hi> my Coffin to be framed by my deare Sonne, and long-breath'd Preacher, <hi>Ives</hi> the Box-ſeller, whoſe Chriſten Name I ſhall not nominate, for that I con<g ref="char:EOLhyphen"/>ceive he never had any: then my Obſequies to ſolem<g ref="char:EOLhyphen"/>nize with all Luſtre, thus; My Bodie to be bonne, from <hi>Guild-Hall</hi> to <hi>Paules,</hi> by ſix of my deare Sonnes, the expounders of Gods Word, to wit, <hi>Wiet</hi> the Cobler,
+<pb n="2" facs="tcp:114414:3"/>
+               <!-- PDF PAGE 31 -->
+               <hi>Sammon</hi> the Shoomaker, <hi>Tue</hi> the Girdler, <hi>Lambe</hi> the Sope-boyler, <hi>Howes</hi> the Broaker, and <hi>Hobſon</hi> the Tay<g ref="char:EOLhyphen"/>lor; Mr. <hi>Burton,</hi> Mr. <hi>Knowles,</hi> and Mr. <hi>Simpſon,</hi> I ordaine as my chiefe Mourners to follow my Herſe, Mr. <hi>Goodwin,</hi> and Mr. <hi>Saltmarſh</hi> before the corps, and then the whole rabble of my deare children to follow after, howling like Wolves, chattering like Pies, and houting like Owles: My deare Daughters, the Inde<g ref="char:EOLhyphen"/>pendent Siſters, who know well, both how to move, and to allay the Spirit, I order to follow next, all clad in ſable weeds their faces vailed, their haire diſheveled, and to cry ſo bitterly, that their teares may waſh the ſtones as they paſſe, &amp; to ſigh ſo dolefully, that men may thinke they with mee are going to the land of Dark<g ref="char:EOLhyphen"/>neſſe: for the ayde and aſſiſtance, <hi>Daunus</hi> Daughters being entred the Temple, Lordaine that Mr. <hi>Goodwin</hi> preach my Funerall Sermon, (for him I eſteeme of above any of my deare ſonnes, eſpecially ſince the time I read his blaſphemous <hi>HAGIO MASTIX</hi>) his Text I would have to bee <hi>Jude, verſ.</hi> 11. <hi>Vaeipſis, nam vram Cain ingreſſi ſunt, &amp; deceptione mercedis, qua deceptus fuit Balaam effuſi ſunt, &amp; contradictione Core, perierunt.</hi>
+            </p>
+            <p>Next, I deſire, that a Petition be framed by ſome of the wiſer beads, the ſame to bee preſented to both Houſes by Mr. <hi>Burton</hi> and M. <hi>Knoles,</hi> the heads where<g ref="char:EOLhyphen"/>of I would have to be, that a tolleration <hi>Cum privilegio</hi> might be granted, that all ſat Benefices, faire Struct<g ref="char:EOLhyphen"/>ures, and wealthy Granges may be beſtowed on religi<g ref="char:EOLhyphen"/>ous zealots, whom the Presbyters know (and I my ſelfe, though I would not have the world to take no<g ref="char:EOLhyphen"/>tice) to be irreligious factious, treacherous and im<g ref="char:EOLhyphen"/>pious Independents, that they may be incouraged to goe on in forcing the Parliament, contemning of his Majeſty, and in ſetting up all licenciouſneſſe and prophaneneſſe.</p>
+            <p>
+               <pb n="3" facs="tcp:114414:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 31 -->
+In the next place, I will and bequeath (as to the firſt worthy to receive) unto my deare Sonne M. <hi>Goodwin,</hi> the whole houſe in <hi>Bell, Alley, Colemanſtreet,</hi> where he privately inſtructeth, which I would have him to in<g ref="char:EOLhyphen"/>large, for that his Audience for want of roome thruſt ſo fore, that many Siſters while he bawleth, are got with childe, to their apparent danger afterwards.</p>
+            <p>Secondly, I bequeath to my venerable ſon M. <hi>Knoles</hi> a larger ſtipend, to be extracted out of the purſes of his Auditors, for that he the ſaid <hi>Knoles</hi> hath formerly often much rejoyced my heart, while I have heard him in one Sermon, and that but of two houres long, utter pure non-ſence, divelliſh Divinity, and lame Latin.</p>
+            <p>Thirdly, I be queath to my deare ſonne Mr. <hi>Burton,</hi> a paire of thoſe large eares, for the ſupplement of his owne, which <hi>Apollo</hi> beſtow'd on <hi>Midas,</hi> for that hee hath hitherto very well merited them, and may by the helpe of thoſe for the future, hear better then it ſeems he hath formerly done.</p>
+            <p>Fourthly, I give and bequeath the little wiſdome I have, to be diſtributed ſo farre as it will reach, to my deare ſonne's and daughters of the Independencie, do the end they may be animated ſtill to proceed in their irregular courſes; and that ſo, that which my ſelfe could not bring to paſſe, may by them be effected, which when I ſhall heare and ſome light ſpirit ſhall certifie the newe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to the Prince of darkneſſe, I am ſure both he and all hell will rejoyce with me.</p>
+            <p>Fifthly, I give my treaſure and houſhold-ſtuffe to my venerable ſon M. <hi>Simpſon,</hi> for that notwithſtanding he hath a conſtant annuity, and ſuch vaſt ſums abroad, he lately complained of his poverty, but I beſtow it with this <hi>proviſo,</hi> that he the ſaid M. <hi>Simpſon</hi> ſhall bee perſwaded for the future, to that which hitherto hee hath <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a very grievous crime, to wit, ſomtimes <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> intreated to beſtow a ſingle halfe<g ref="char:EOLhyphen"/>penty on the poore.</p>
+            <pb n="2" facs="tcp:114414:4"/>
+            <!-- PDF PAGE 30 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="3" facs="tcp:114414:4"/>
+            <!-- PDF PAGE 30 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb n="4" facs="tcp:114414:5"/>
+            <!-- PDF PAGE 32 -->
+            <p>Sixtly, I give and bequeath all my fooliſhneſſe and zeale, contrary to knowledge, all my headineſſe and gid<g ref="char:EOLhyphen"/>dineſſe, to the ruder ſort of Souldiers in the Armie, to the end they may be encouraged ſtill to goe on in their perverſeneſſe, to the diſturbance of the whole King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>Seventhly, I being now at the point of Death, and my thred of life almoſt cut in two, cannot depart till I have made my Confeſſion; and therefore now heare O Hea<g ref="char:EOLhyphen"/>vens, and witneſſe thou Earth, to what my laſt breath ſhall utter.</p>
+            <div type="confession">
+               <head>Sir <hi>JAMES</hi> Independent his Confeſſion.</head>
+               <p>I Confeſſe to my owne ſhame, that I have hitherto been a cloſe hypocrite, and have ſtrugled for libertie of Conſcience, not out of zeale to the Truth, but to ad<g ref="char:EOLhyphen"/>vance my owne factious end: I confeſſe moreover, that I have rayled againſt the <hi>Presbyterie,</hi> againſt my owne cleare and deſtinate light of knowledge; I confeſſe that I have uſed all meanes and wayes to advance <hi>Liberti<g ref="char:EOLhyphen"/>niſme,</hi> and to that end have unskrewed the Jawes of my deare Sonnes, M. <hi>Goodwin,</hi> M. <hi>Knoles, cum multis aliis,</hi> to rayle againſt all Order and Government, to ſurrender all into the hand of Chriſt, who himſelfe in expreſſe words hath left the ordering of his Church to the Heads and Leaders thereof: I confeſſe alſo, that I have ſtirred up and animated divers turbulent Spirits in the Armie, contrarie to the mind of the worthy Generall, and the <hi>major</hi> part of that valiant Army, to ſeeke all wayes, and attempt by all meanes to forment Diſcords and Di<g ref="char:EOLhyphen"/>viſions, to cauſe Debates &amp; Jealouſies to ariſe between the Army and the two Houſes of Parliament: for all which I confeſſe my ſelfe altogether unworthy of a be<g ref="char:EOLhyphen"/>ing in this life, and intimately meriting a ſhare of thoſe torments which my great Patron <hi>Belzebub</hi> himſelfe
+<pb n="5" facs="tcp:114414:5"/>
+                  <!-- PDF PAGE 32 -->partaketh of into whoſe hands I commit my ſelfe; de<g ref="char:EOLhyphen"/>ſiring my deare Sonnes and Daughters, whom to my unſpeakable griefe I ſhall leave behind me on Earth, not to be amaned or ſmitten with feare, either for my ſudden departure, or for the unhoſpitableneſſe of the place whither I depart, but that they would ſtill con<g ref="char:EOLhyphen"/>ſtantly perſever in thoſe courſes to which I have hither<g ref="char:EOLhyphen"/>to inured them; and when they ſhall leave their earthly being, I ſhall beſpeake them as ample and faire accom<g ref="char:EOLhyphen"/>modation as ſpacious Hell affords: and ſo with my Bleſſing to my deare Sonnes and Daughters, I bid them farewell.</p>
+            </div>
+            <div type="postscript">
+               <head>Postſcript.</head>
+               <p>LEt the mountaines dance, and the hills skip like Rammes; Rejoyce, O <hi>England,</hi> thy deſolation is protracted, for <hi>James Independent</hi> is dead: Thou ſhalt now have a ſetled Government, maugre its ſtrongeſt oppoſers, and ſhalt not be ſubjugated to the lawleſſe wills of a few Schiſmaticks: Thou ſhalt now be as glo<g ref="char:EOLhyphen"/>rious as ever; the enemies of thy welfare ſhall not beare rule over thee, who whet their tongues as a ſword to ſpeake lyes, and their feet are ſwift to ſhed bloud: And now farewell <hi>Libertiniſme,</hi> and <hi>Socianiſme;</hi> fare<g ref="char:EOLhyphen"/>well Petitioning for tender Conſciences, —</p>
+               <q>(Qui curii ſimulant, &amp; Bachanalia vivunt)</q>
+               <p>Farewell aſſembling in private Chambers; and for ever farewell good Sir <hi>James Independent.</hi>
+               </p>
+               <epigraph>
+                  <q>Fatis Agimur, credite Fatis non ſollicitae poſſunt curae, &amp;c.</q>
+               </epigraph>
+            </div>
+         </div>
+         <div type="epitaph">
+            <pb n="6" facs="tcp:114414:6"/>
+            <!-- PDF PAGE 33 -->
+            <head>His EPITAPH.</head>
+            <l>HEre lyes <hi>James Independent,</hi> you may know it and wink,</l>
+            <l>For his Corps, alike to his Name doth ſtink:</l>
+            <l>A Dreſſer with him was a Communion Table,</l>
+            <l>And Gods Houſe accounted no better then a Stable;</l>
+            <l>He bated all Order, as he did decent Carriage,</l>
+            <l>And that Man and Wife ſhould be joyned by Marriage;</l>
+            <l>He ſaid, that the Scriptures this ſenſe would afford,</l>
+            <l>Their Wedlock was lawfull, tooke they each others word.</l>
+            <l>He ſeem'd pure to the ſight, but within was a Devill,</l>
+            <l>He dayly caus'd Diſcords, yet would be thought civill;</l>
+            <l>He alſo pretended great love to the King,</l>
+            <l>Yet never intended any ſuch thing:</l>
+            <l>But while he would ſeeme to ſettle his Crowne,</l>
+            <l>By under-hand workings pul'd Monarchie downe.</l>
+            <l>He had thoughts he ſhould live his hopes for to ſee</l>
+            <l>Effected, but dy'd for griefe when 'twould not bee.</l>
+            <l>With ſpeed to <hi>Gehenna</hi> his flight late he tooke,</l>
+            <l>Where <hi>Belzebub</hi> lik't him, and made him his Cooke,</l>
+            <l>And added a Promiſe, that for his ſweet ſake,</l>
+            <l>His Sonnes that ſhould follow, ſhould in Office partake;</l>
+            <l>Which the <hi>Independents</hi> tooke ſo much in gree,</l>
+            <l>They ſtrive which the formoſt in Office ſhall bee.</l>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
